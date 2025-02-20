@@ -50,7 +50,7 @@ Once you're done, hit `Enter` and the program will run the perceptron on your dr
 
 ## Further Reading
 
-I got the idea to try this out when reading about Optical Character Recognition (OCR) in these 80s-90s articles:
+I got the idea to try this out when reading about Optical Character Recognition (OCR) in these 50s-90s papers and articles:
 
 - [The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain - 1958](https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf)
 - [Developer - The Apple Technical Journal - August 1992](https://vintageapple.org/develop/pdf/develop-11_9208_August_1992.pdf) - Page 85
